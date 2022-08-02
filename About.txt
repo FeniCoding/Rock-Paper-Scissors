@@ -1,0 +1,1 @@
+This is a minigame written with basic JS and HTML
